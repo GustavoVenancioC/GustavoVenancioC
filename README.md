@@ -1,7 +1,7 @@
 ## 🌌🌠 Sejam bem-vindos ao meu mundo!! 🚀🪐 
 
 - 🔎📚 Atualmente estou aprendendo sobre JavaScript, HTML, CSS, Git, GitHub, Soft Skills...
-- 👀🧰 Procuro minha primeira oportunidade na área de desenvolvimento, onde possa colocar em prática todos os meus conhecimentos adquiridos nos cursos, aprender, evoluir e superar os desafios ao lado da empresa.
+- 👀🧰 Procuro minha primeira oportunidade na área de desenvolvimento, onde possa colocar em prática todos os meus conhecimentos adquiridos nos cursos, aprender, superar os desafios e evoluir constantemente ao lado da empresa.
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
