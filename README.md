@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=GustavoVenancioC&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVenancioC&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=GustavoVenancioC&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVenancioC&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
