@@ -1,7 +1,7 @@
-## 🌌🌠 Sejam bem-vindos ao meu mundo!! 🚀🪐 
+## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐 
 
-- 🔎📚 Atualmente estou aprendendo sobre JavaScript, HTML, CSS, Git, GitHub, Soft Skills...
-- 👀🧰 Procuro minha primeira oportunidade na área de desenvolvimento, onde possa colocar em prática todos os meus conhecimentos adquiridos nos cursos, aprender, superar os desafios e evoluir constantemente ao lado da empresa.
+- 🔎📚 I'm currently learning about JavaScript, HTML, CSS, Git, GitHub, Soft Skills...
+- 👀🧰 I'm looking for my first opportunity in the development area, where I can put into practice all my knowledge acquired in the courses, learn, overcome challenges and constantly evolve alongside the company.
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
