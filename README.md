@@ -6,7 +6,7 @@
     - 🚀 Técnico em Informática (Senac) <br>
     - 🚀 BootCamp Decola Tech (Avanade)
 - 🔎📚 I'm currently learning about JavaScript, HTML, CSS, Git, GitHub, Soft Skills...
-- 👀💼 I'm looking for my first opportunity in the development area, where I can put into practice all my knowledge acquired in the courses, learn, overcome challenges and constantly evolve alongside the company.
+- 👀💼 I'm looking for my first opportunity in the technology area, where I can put into practice all my knowledge acquired in courses, learn, overcome challenges and constantly evolve alongside the company.
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
