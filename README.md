@@ -5,10 +5,10 @@
     - 🚀 OTechTaOn - Programming and Soft Skills (MFD, IMED, Avanade...) <br>
     - 🚀 Computer Technician (Senac) <br>
     - 🚀 BootCamp Decola Tech (Avanade)
-<p> - 🔎📚 I'm currently learning about:
-    - ★ Javascript
-    - ★ HTML
-    - ★ CSS
+<p> - 🔎📚 I'm currently learning about: <br>
+    - ★ Javascript <br>
+    - ★ HTML <br>
+    - ★ CSS <br>
     - ★ Git </p>
 - 👀💼 I'm looking for my first opportunity in the technology area, where I can put into practice all my knowledge acquired in courses, learn, overcome challenges and constantly evolve alongside the company.
 
