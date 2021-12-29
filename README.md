@@ -4,7 +4,6 @@
 - 🤩🚩I am currently taking three courses: <br>
     - 🚀 OTechTaOn - Programming and Soft Skills (MFD, IMED, Avanade...) <br>
     - 🚀 Computer Technician (Senac) <br>
-    - 🚀 BootCamp Decola Tech (Avanade) <br><br>
 -  🔎📚 I'm currently learning about: <br>
     - ★ Javascript <br>
     - ★ HTML <br>
