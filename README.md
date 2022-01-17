@@ -1,7 +1,6 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐 
 
-- 👨‍🎓🥳 I'm currently finishing the last year of high school, practically graduated.
-- 🤩🚩I am currently taking three courses: <br>
+- 🤩🚩I am currently taking two courses: <br>
     - 🚀 OTechTaOn - Programming and Soft Skills (MFD, IMED, Avanade...) <br>
     - 🚀 Computer Technician (Senac) <br>
 -  🔎📚 I'm currently learning about: <br>
