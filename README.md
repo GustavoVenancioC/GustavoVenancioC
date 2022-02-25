@@ -1,14 +1,12 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐 
 
-- 🤩🚩I am currently taking two courses: <br>
-    - 🚀 OTechTaOn - Programming and Soft Skills (MFD, IMED, Avanade...) <br>
+- 🤩🚩I am currently taking the course of: <br>
     - 🚀 Computer Technician (Senac) <br>
 -  🔎📚 I'm currently learning about: <br>
     - ★ Javascript <br>
     - ★ HTML <br>
     - ★ CSS <br>
     - ★ Git <br><br>
-- 👀💼 I'm looking for my first opportunity in the technology area, where I can put into practice all my knowledge acquired in courses, learn, overcome challenges and constantly evolve alongside the company.
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
