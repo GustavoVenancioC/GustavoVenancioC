@@ -3,14 +3,14 @@
 - 🤩🚩I recently finished the course in: <br>
       - 🚀 IT Technician (Senac) <br><br>
 - 🔎📚 I'm currently learning about: <br>
-      - ★Basic and advanced knowledge of Computer Hardware Components<br>
-      - ★Popular operating systems such as Linux and Windows Distributions<br>
-      - ★Computer Network Concepts<br><br>
+      - ★ Basic and advanced knowledge of Computer Hardware Components<br>
+      - ★ Popular operating systems such as Linux and Windows Distributions<br>
+      - ★ Computer Network Concepts<br><br>
 - 🏆 Some future knowledge to be acquired:<br>
-      - ★Electronics applied to IT<br>
-      - ★Information Security / Cybersecurity<br>
-      - ★Advanced knowledge in Computer Networks<br>
-      - ★MacOS system<br>
+      - ★ Electronics applied to IT<br>
+      - ★ Information Security / Cybersecurity<br>
+      - ★ Advanced knowledge in Computer Networks<br>
+      - ★ MacOS system<br>
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
@@ -32,6 +32,8 @@
   <a href="https://www.linkedin.com/in/gustavo-venancio-c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavo.venancioc7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/GustavoVenancioC/GustavoVenancioC/blob/output/github-contribution-grid-snake.svg)
- 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+            
+
 </div>
