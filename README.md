@@ -1,12 +1,16 @@
-## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐 
+## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐
 
-- 🤩🚩I am currently taking the course of: <br>
-    - 🚀 Computer Technician (Senac) <br>
--  🔎📚 I'm currently learning about: <br>
-    - ★ Javascript <br>
-    - ★ HTML <br>
-    - ★ CSS <br>
-    - ★ Git <br><br>
+- 🤩🚩I recently finished the course in: <br>
+      - 🚀 IT Technician (Senac) <br><br>
+- 🔎📚 I'm currently learning about: <br>
+      - ★Basic and advanced knowledge of Computer Hardware Components<br>
+      - ★Popular operating systems such as Linux and Windows Distributions<br>
+      - ★Computer Network Concepts<br><br>
+- 🏆 Some future knowledge to be acquired:
+      - Electronics applied to IT
+      - Information Security / Cybersecurity
+      - Advanced knowledge in Computer Networks
+      - MacOS system<br>
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
@@ -25,7 +29,7 @@
 ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/gustavo-venâncio-de-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-venancio-c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavo.venancioc7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/GustavoVenancioC/GustavoVenancioC/blob/output/github-contribution-grid-snake.svg)
