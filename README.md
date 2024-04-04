@@ -6,11 +6,11 @@
       - ★Basic and advanced knowledge of Computer Hardware Components<br>
       - ★Popular operating systems such as Linux and Windows Distributions<br>
       - ★Computer Network Concepts<br><br>
-- 🏆 Some future knowledge to be acquired:
-      - Electronics applied to IT
-      - Information Security / Cybersecurity
-      - Advanced knowledge in Computer Networks
-      - MacOS system<br>
+- 🏆 Some future knowledge to be acquired:<br>
+      - ★Electronics applied to IT<br>
+      - ★Information Security / Cybersecurity<br>
+      - ★Advanced knowledge in Computer Networks<br>
+      - ★MacOS system<br>
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
