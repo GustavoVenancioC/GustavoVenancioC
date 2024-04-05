@@ -1,7 +1,7 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐
 
 - 🤩🚩I recently finished the course in: <br>
-      - 🚀 IT Technician (Senac) <br><br>
+      - 🚀 IT Technician <br><br>
 - 🔎📚 I'm currently learning about: <br>
       - ★ Basic and advanced knowledge of Computer Hardware Components<br>
       - ★ Popular operating systems such as Linux Distributions and Windows<br>
