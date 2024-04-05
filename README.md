@@ -1,13 +1,13 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐
 
-🤩🚩 I recently completed the IT Technician course. <br><br>
+🤩🚩 I recently completed the IT Technician course. <br>
 
-📚 Current Studies: <br>
+📚 Current Studies:
 - ★ Basic and advanced knowledge of computer hardware components <br>
 - ★ Operating systems: Linux distributions, Windows.. <br>
-- ★ Computer network concepts <br><br>
+- ★ Computer network concepts <br>
 
-🏆 Next Steps: <br>
+🏆 Next Steps:
 - ★ Electronics applied to IT <br>
 - ★ Advanced knowledge of computer networks <br>
 - ★ Study in Information Security / Cybersecurity <br>
