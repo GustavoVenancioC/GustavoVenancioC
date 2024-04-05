@@ -8,8 +8,8 @@
       - ★ Computer Network Concepts<br><br>
 - 🏆 Some future knowledge to be acquired:<br>
       - ★ Electronics applied to IT<br>
-      - ★ Information Security / Cybersecurity<br>
       - ★ Advanced knowledge in Computer Networks<br>
+      - ★ Information Security / Cybersecurity<br>
       - ★ MacOS system<br>
 
 <div align="center">
