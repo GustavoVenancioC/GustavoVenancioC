@@ -1,17 +1,17 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐
 
--🤩🚩 I recently completed the IT Technician course. <br>
+🤩🚩 I recently completed the IT Technician course. <br><br>
 
-📚 Current Studies:
-★ Basic and advanced knowledge of computer hardware components
-★ Operating systems: Linux distributions, Windows..
-★ Computer network concepts
+📚 Current Studies: <br>
+- ★ Basic and advanced knowledge of computer hardware components <br>
+- ★ Operating systems: Linux distributions, Windows.. <br>
+- ★ Computer network concepts <br><br>
 
-🏆 Next Steps:
-★ Electronics applied to IT
-★ Advanced knowledge of computer networks
-★ Study in Information Security / Cybersecurity
-★ Among others...
+🏆 Next Steps: <br>
+- ★ Electronics applied to IT <br>
+- ★ Advanced knowledge of computer networks <br>
+- ★ Study in Information Security / Cybersecurity <br>
+- ★ Among others... <br><br>
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
