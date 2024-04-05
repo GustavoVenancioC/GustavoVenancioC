@@ -3,15 +3,15 @@
 🤩🚩 I recently completed the IT Technician course. <br>
 
 📚 Current Studies:
-- ★ Basic and advanced knowledge of computer hardware components <br>
-- ★ Operating systems: Linux distributions, Windows.. <br>
-- ★ Computer network concepts <br>
+★ Basic and advanced knowledge of computer hardware components <br>
+★ Operating systems: Linux distributions, Windows.. <br>
+★ Computer network concepts <br>
 
 🏆 Next Steps:
-- ★ Electronics applied to IT <br>
-- ★ Advanced knowledge of computer networks <br>
-- ★ Study in Information Security / Cybersecurity <br>
-- ★ Among others... <br><br>
+★ Electronics applied to IT <br>
+★ Advanced knowledge of computer networks <br>
+★ Study in Information Security / Cybersecurity <br>
+★ Among others... <br><br>
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
