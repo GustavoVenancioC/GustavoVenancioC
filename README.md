@@ -4,7 +4,7 @@
       - 🚀 IT Technician (Senac) <br><br>
 - 🔎📚 I'm currently learning about: <br>
       - ★ Basic and advanced knowledge of Computer Hardware Components<br>
-      - ★ Popular operating systems such as Linux and Windows Distributions<br>
+      - ★ Popular operating systems such as Linux Distributions and Windows<br>
       - ★ Computer Network Concepts<br><br>
 - 🏆 Some future knowledge to be acquired:<br>
       - ★ Electronics applied to IT<br>
