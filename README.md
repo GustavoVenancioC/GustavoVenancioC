@@ -1,16 +1,17 @@
 ## 🌌🌠 Welcome to my world, I'm Gustavo!! 🚀🪐
 
-- 🤩🚩I recently finished the course in: <br>
-      - 🚀 IT Technician <br><br>
-- 🔎📚 I'm currently learning about: <br>
-      - ★ Basic and advanced knowledge of Computer Hardware Components<br>
-      - ★ Popular operating systems such as Linux Distributions and Windows<br>
-      - ★ Computer Network Concepts<br><br>
-- 🏆 Some future knowledge to be acquired:<br>
-      - ★ Electronics applied to IT<br>
-      - ★ Advanced knowledge in Computer Networks<br>
-      - ★ Information Security / Cybersecurity<br>
-      - ★ MacOS system<br>
+-🤩🚩 I recently completed the IT Technician course. <br>
+
+📚 Current Studies:
+★ Basic and advanced knowledge of computer hardware components
+★ Operating systems: Linux distributions, Windows..
+★ Computer network concepts
+
+🏆 Next Steps:
+★ Electronics applied to IT
+★ Advanced knowledge of computer networks
+★ Study in Information Security / Cybersecurity
+★ Among others...
 
 <div align="center">
   <a href="https://github.com/GustavoVenancioC">
